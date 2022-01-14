@@ -21,6 +21,14 @@ Para 3 = 61
 
 Para 27 = 5
 
+2. Escribir un script tomando como entrada el nombre del archivo y el ID del individuo,y devolver el número de registros para esa identificación.
+
+Mediante la información del archivo count_baboons se aplica el siguiente comando:
+
+bash count_baboons.sh ../data/Gesquiere2011_data.csv 27
+
+Dando como respuesta: 5
+
 3. Escriba un script que devuelva el número de veces que se muestreó a cada individuo.
 
 Para esto se utilizará el siguiente comando para guardar los datos en una lista
